@@ -21,4 +21,12 @@ Lee Chatmen is a popular influencer from the United States with over 7 million T
 -	Are there any patterns in repeat purchases?
 -	Dashboard Interaction <a href="https://github.com/siva151988/Merchadise-Sales-Analysis/blob/main/Merchandise%20sales1.pbix">View Dashboard</a>
 
+#### Process
+- Verified and understood all fields including Order Date, Sales, Units Sold, Category, Region, etc.
+- Cleaned column headers and removed unnecessary formatting in Power Query Editor.Converted data types for dates, numbers, and categories.Ensured column consistency (e.g., corrected nulls, checked date ranges).
+- Created a **Date Table** to support time intelligence functions.
+- Created a Tables to perform analysis and join those tables using snowflake modelling to build a realtionship between tables.
+- Created DAX Calculations to perform KPI trends like **Total Sales**,**Net Profit**,**Total Quantity**,**Total Orders**,**Shipping Charges** etc..
+
+#### Dashboard
 
